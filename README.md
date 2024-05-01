@@ -1,3 +1,7 @@
+# Original Source Code
+
+- Samsung Open Source ( https://opensource.samsung.com/main )
+
 # How do I submit patches to Android Common Kernels
 
 1. BEST: Make all of your changes to upstream Linux. If appropriate, backport to the stable releases.
